@@ -31,3 +31,4 @@ Shadcn UI was used for the styles. I am not reinveting the wheel here.
 Check the components folder for the components used in this project. Since I am not switching pages, I used the [`app.vue`](/app.vue) file to render everything.
 
 Yes, light and dark mode is in place. Thanks to VueUse
+# NuxtDash
